@@ -1,0 +1,22 @@
+{
+    "PlatformOptions": [
+        {
+            "Platform": "iOS",
+            "ProductName": "AppName",
+            "ApplicationIdentifier": "com.appname"
+        },
+        {
+            "Platform": "Android",
+            "ProductName": "AppName",
+            "ApplicationIdentifier": "com.appname"
+        }
+    ],
+    "DefineSymbols": [
+        "SERVER_DEVELOP",
+        "DEBUG_LOG",
+        "TUTORIAL_SKIP"
+    ],
+    "BuildOptions": [
+        "Development"
+    ]
+}
